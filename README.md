@@ -8,7 +8,7 @@
 👯 I’m looking to collaborate on your next React or React Native proejtcs.  
 😋 Beside programming, I'm food lover and music enthusiast !    
 
-See ya !👋
+### See ya !👋
 <!--
 **Iamflaviocb/Iamflaviocb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
