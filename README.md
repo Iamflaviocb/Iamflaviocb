@@ -1,12 +1,13 @@
 ### Hi there 👋
 ### My name is Flavio, fullstack developer.
+
+#### Some lines about me
+🌱 I’m currently learning Typescript and I'm a JAMStack enthusiast !
+
 <!--
 **Iamflaviocb/Iamflaviocb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-#### Some lines about me
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Typescript and I'm a JAMStack enthusiast !
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
